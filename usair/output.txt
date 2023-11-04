@@ -1,0 +1,46 @@
+-------------------------
+USAIR97 NETWORK
+Latitude Range: [-14.33,71.29]
+Longitude Range: [-225.46,-64.97]
+
+Caratteristiche Rete Completa:
+Nodi = 332
+Edges = 2126
+Densità = 0.038693
+
+Caratteristiche Rete Connessa:
+Nodi = 332
+Edges = 2126
+Densità = 0.038693
+Diametro = 6.000000
+Average Shortest Path = 3.00
+Nodo con Max Betweenness: Anchorage
+
+Nodo con Max Clustering: Barrow
+
+Nodo con Max Degree: Chicago
+
+<H>: 12.807229
+<H^2>: 568.162651
+Level of Heterogeneity: 44.362653
+Città in Ordine Decrescente Strength
+Chicago
+
+Fort Worth
+
+Los Angeles
+
+Minneapolis
+
+Atlanta
+
+Nodo con Max Strength: Chicago
+
+Variabili New York JFK
+Strength:  4.983599999999999
+Betweenness:  0.0044968647357420104
+Grado:  46
+Clustering Coef:  0.5108279601537488
+
+Analysis terminated in  41.656545877456665 seconds.
+

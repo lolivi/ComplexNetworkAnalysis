@@ -1,0 +1,332 @@
+Barrow
+Deadhorse
+Kotzebue
+Fairbanks
+Nome
+St Mary's
+Aniak
+Anchorage
+Tuluksak
+Akichak
+Akiak
+Kwethluk
+Bethel
+Napaskiak
+Napakiak
+Cordova
+Tuntutuliak
+Eek
+Kongiganak
+Kwigillingok
+Quinhagak
+Yakutat
+Dillingham
+King Salmon
+Gustavus
+Juneau
+Kodiak
+St. Paul Island
+Sitka
+Port Heiden
+Petersburg
+Wrangell
+Ketchikan
+Sand Point
+Cold Bay
+Unalaska
+Shemya
+Adak Island
+Bellingham
+Kalispell
+Minot
+Port Angeles
+Grand Forks
+Grand Forks
+Spokane
+Great Falls
+Seattle
+Wenatchee
+Grant County
+Missoula
+Fargo
+Duluth
+Bismarck
+Pullman
+Helena
+Yakima
+Fulton
+Lewiston
+BRISTOL
+Walla Walla
+Butte
+Billings
+Bozeman
+Pendleton
+Hillsboro
+Salem
+Minneapolis
+Bangor
+Wassau
+Traverse City
+Green Bay
+Burlington
+Fulton
+Redmond-Bend
+Eugene
+Rapid City
+Oshkosh
+Rochester
+La Crosse
+Portland
+Jackson Hole
+Sioux Falls
+Boise
+Saginaw
+Idaho Falls
+Hailey
+North Bend
+Muskegon
+Rhinelander
+Madison
+Rochester
+Syracuse
+Flint
+Milwaukee
+Portsmouth
+Manchester
+Pocatello
+Casper
+Fulton
+Lansing
+Fulton
+Waterloo
+Fulton
+Twin Falls
+Parsons
+Sioux City
+Dubuque IA
+Medford
+Boston
+Worcester
+Kalamazoo
+Detroit
+Binghamton
+Portsmouth
+Elmira
+Redwood Falls
+Erie
+Chicago
+Windsor Locks
+Cedar Rapids
+Scottsbluff
+Nashville
+Chicago
+Crescent City
+Providence
+Nashville
+Toledo
+Des Moines
+Newburgh
+Moline
+Cleveland
+North Wilkesboro
+Omaha
+New Haven
+Youngstown
+White Plains
+Fort Wayne
+Arcata
+Akron
+Lincoln
+State College Pennsylvania
+Nashville
+Islip
+Salt Lake City
+Burlington
+New York
+Newark
+Portsmouth
+Allentown
+New York
+Redding
+Pittsburgh
+Hayden
+Bloomington
+Lafayette
+Bluefield
+Harrisburg
+Champaign
+Columbus
+Quincy
+Dayton
+Philadelphia
+Frankfort
+Bainbridge
+Chico
+Stapleton
+Indianapolis
+Vail
+Reno
+Atlantic City
+Terre Haute
+Kansas City
+Aspen
+Kelso
+Grand Junction
+Cincinnati
+Washington
+South Lake Tahoe
+Washington
+The Dalles
+Colorado Springs
+St. Louis
+Fostoria
+Fulton
+Santa Rosa
+Charleston
+Huntington
+Pueblo
+Louisville
+Charlottesville VA
+Evansville
+Lexington KY
+Stockton
+Lewisburg
+Marion
+Fort Rucker/Ozark
+Oakland
+Philipsburg
+Modesto
+Mammoth Lakes
+San Francisco
+New Richmond
+San Jose
+Roanoke
+Merced
+Springfield
+Cape Girardeau
+Durango
+Joplin
+Newport
+PADUCAH
+Norfolk
+Fresno
+Monterey
+BRISTOL
+Tulsa
+Nashville
+Greensboro
+Eastover
+Fayetteville
+Raleigh-durham
+Eastover
+Asheville
+Bakersfield
+Oklahoma City
+Fort Smith
+Kinston
+San Luis Obispo
+Amarillo
+Charlotte
+Flagstaff
+Millington
+Albuquerque
+Chattanooga
+Fayetteville
+Santa Maria
+Greenville
+Jacksonville NC
+Steamboat Springs
+Huntsville
+Lawton
+Santa Barbara
+Wilmington
+Oxnard
+Glendale
+Ontario
+Wichita Falls
+Los Angeles
+Columbia
+Palm Springs
+Long Beach
+Myrtle Beach
+Santa Ana
+Lubbock
+Atlanta
+Birmingham
+Texarkana
+Phoenix
+Bush Field
+Charleston
+Fort Worth
+Dallas
+San Diego
+Yuma
+Columbus
+Monroe
+Shreveport
+Abilene
+Fulton
+Tyler
+Jackson
+Montgomery
+Savannah
+Tucson
+Midland
+El Paso
+Waco
+Alexandria
+San Angelo
+Killen
+Mobile
+College Station
+Baton Rouge
+Jacksonville
+Valparaiso
+Pensacola
+Tallahassee
+Poteau
+Panama City
+Lafayette
+Lake Charles
+New Orleans
+Perry
+Fulton
+Gainesville
+Houston
+San Antonio
+Daytona Beach
+Orlando
+Melbourne
+Tampa
+New York
+Corpus Christi
+Laredo
+Sarasota
+West Palm Beach
+Fort Myers
+Harlingen
+Mcallen
+Fort Lauderdale
+Miami
+Lihue
+Honolulu
+Molokai
+Lahania-kapalua
+Kahului
+Lanai
+Kona
+Hilo
+Aguadilla
+San Juan
+St. Thomas
+Mayaguez
+Ponce
+Columbia
+Johnston Island
+Saipan
+Rota
+Andersen
+Babelthuap
+Pago Pago
+New York

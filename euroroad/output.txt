@@ -1,0 +1,28 @@
+-------------------------
+EUROROAD NETWORK
+Latitude Range: [33.10,71.17]
+Longitude Range: [-9.14,85.61]
+
+Caratteristiche Rete Completa:
+Nodi = 1174
+Edges = 1417
+Densità = 0.002058
+
+Caratteristiche Rete Connessa:
+Nodi = 1039
+Edges = 1305
+Densità = 0.002420
+Diametro = 62.000000
+Average Shortest Path = 18.00
+Nodo con Max Betweenness: Brest
+
+Nodo con Max Clustering: Brindisi
+
+Nodo con Max Degree: Moscow
+
+<H>: 2.512031
+<H^2>: 7.753609
+Level of Heterogeneity: 3.086590
+
+Analysis terminated in  53.07609248161316 seconds.
+
